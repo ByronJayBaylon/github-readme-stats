@@ -462,6 +462,14 @@ export const themes = {
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
+
+  Apocalypse: {
+    title_color: "f8f9fa",   // Light gray
+    text_color: "e0e0e0",    // Slightly darker gray
+    icon_color: "ff6b6b",    // Dark red
+    bg_color: "2c2c2c,6b0000",  // Gradient from dark gray to dark red
+},
+
 };
 
 export default themes;
